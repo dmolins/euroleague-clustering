@@ -1,0 +1,568 @@
+CODETEAM|COMMENT|DORSAL|MARKERTIME|MINUTE|NUMBEROFPLAY|PLAYER|PLAYER_ID|PLAYINFO|PLAYTYPE|POINTS_A|POINTS_B|TEAM|TYPE|Stadium|Local|Visitor|Game
+EST       ||24|09:52|1|2|GARCES, RUBEN|JJQ       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|09:49|1|3|BAGARIC, DALIBOR|AFG       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|09:30|1|4|DOUGLAS, RUBEN|JJU       |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|09:15|1|5|BAGARIC, DALIBOR|AFG       |Steal (1)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|09:15|1|6|GARCES, RUBEN|JJQ       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|09:08|1|7|BASILE, GIANLUCA|ADS       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|09:08|1|8|BASILE, GIANLUCA|ADS       |Shot Rejected (1)|AG|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|09:08|1|9|PATTERSON, ANDRAE|CFE       |Block (1)|FV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|09:08|1|10|VUJANIC, MILOS|AUP       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|09:00|1|11|VUJANIC, MILOS|AUP       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|09:00|1|12|PATTERSON, ANDRAE|CFE       |Def Rebound (1)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|08:51|2|14|BASILE, GIANLUCA|ADS       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|08:51|2|15|JIMENEZ, CARLOS|AAS       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:38|2|16|JASEN, HERNAN|BIL       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|08:38|2|17|LORBEK, ERAZEM|BWL       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|08:35|2|18|VUJANIC, MILOS|AUP       |Dunk (1/1 -  2 pt)|DUNK||2.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|08:35|2|19|VUJANIC, MILOS|AUP       |Foul Drawn (1)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|08:35|2|20|JIMENEZ, CARLOS|AAS       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|08:35|2|21|VUJANIC, MILOS|AUP       |Missed Free Throw (0/1 -  2 pt)|FTA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|08:28|2|22|VUJANIC, MILOS|AUP       |Missed Two Pointer (1/2 -  2 pt)|2FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|08:25|2|23|GARCES, RUBEN|JJQ       |Def Rebound (1)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|08:14|2|24|GARCES, RUBEN|JJQ       |Missed Layup (0/2 -  0 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||08:12|2|26||          |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|08:03|2|27|BASILE, GIANLUCA|ADS       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|07:57|3|29|JIMENEZ, CARLOS|AAS       |Def Rebound (1)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|07:52|3|30|AZOFRA, IGNACIO|AAP       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|07:52|3|31|VUJANIC, MILOS|AUP       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|07:39|3|32|PATTERSON, ANDRAE|CFE       |Two Pointer (1/1 -  2 pt)|2FGM|2.0|2.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|07:18|3|33|DOUGLAS, RUBEN|JJU       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|07:13|3|34|GARCES, RUBEN|JJQ       |Def Rebound (2)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:11|3|35|JASEN, HERNAN|BIL       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|07:04|3|36|VUJANIC, MILOS|AUP       |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:00|3|37|JASEN, HERNAN|BIL       |Turnover (2)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:00|3|38|JASEN, HERNAN|BIL       |Dunk (1/1 -  2 pt)|DUNK|4.0|2.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|06:51|4|40|BAGARIC, DALIBOR|AFG       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:49|4|41|PATTERSON, ANDRAE|CFE       |Def Rebound (2)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|06:45|4|42|JASEN, HERNAN|BIL       |Missed Three Pointer (0/2 -  2 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:42|4|43|DOUGLAS, RUBEN|JJU       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|06:35|4|44|BASILE, GIANLUCA|ADS       |Missed Three Pointer (0/2 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:35|4|45|PATTERSON, ANDRAE|CFE       |Def Rebound (3)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:20|4|46|GARCES, RUBEN|JJQ       |Two Pointer (1/3 -  2 pt)|2FGM|6.0|2.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|06:20|4|47|JIMENEZ, CARLOS|AAS       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|06:05|4|48|JASEN, HERNAN|BIL       |Steal (1)|ST|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:05|4|49|DOUGLAS, RUBEN|JJU       |Turnover (2)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|05:59|5|51|JASEN, HERNAN|BIL       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|05:59|5|52|DOUGLAS, RUBEN|JJU       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|05:59|5|54|SMODIS, MATJAZ|ALC       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|05:59|5|55|BAGARIC, DALIBOR|AFG       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|05:59|5|56|JASEN, HERNAN|BIL       |Free Throw In (1/1 -  3 pt)|FTM|7.0|2.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|05:59|5|57|JASEN, HERNAN|BIL       |Missed Free Throw (1/2 -  3 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|05:59|5|58|SMODIS, MATJAZ|ALC       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|05:39|5|59|VUJANIC, MILOS|AUP       |Three Pointer (1/2 -  5 pt)|3FGM|7.0|5.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|05:30|5|60|AZOFRA, IGNACIO|AAP       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|05:15|5|61|BASILE, GIANLUCA|ADS       |Missed Three Pointer (0/3 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|05:15|5|62|PATTERSON, ANDRAE|CFE       |Def Rebound (4)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:59|6|64|SMODIS, MATJAZ|ALC       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:59|6|65|GARCES, RUBEN|JJQ       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|04:59|6|66|ITURBE, IKER|AIS       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|04:59|6|67|LONCAR, NIKOLA|BIU       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|04:59|6|68|PATTERSON, ANDRAE|CFE       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|04:59|6|69|JIMENEZ, CARLOS|AAS       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:59|6|70|GARCES, RUBEN|JJQ       |Free Throw In (1/1 -  3 pt)|FTM|8.0|5.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|04:59|6|71|AZOFRA, IGNACIO|AAP       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:59|6|72|GARCES, RUBEN|JJQ       |Missed Free Throw (1/2 -  3 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|04:59|6|73|DOUGLAS, RUBEN|JJU       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:59|6|75|GARCES, RUBEN|JJQ       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:59|6|76|SMODIS, MATJAZ|ALC       |Foul Drawn (1)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|04:59|6|77|RANCIK, MARTIN|CWH       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|04:59|6|78|LORBEK, ERAZEM|BWL       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:59|6|79|SMODIS, MATJAZ|ALC       |Free Throw In (1/1 -  1 pt)|FTM|8.0|6.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:59|6|80|SMODIS, MATJAZ|ALC       |Free Throw In (2/2 -  2 pt)|FTM|8.0|7.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:44|6|81|JASEN, HERNAN|BIL       |Layup Made (2/2 -  5 pt)|LAYUPMD|10.0|7.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:44|6|82|GARCES, RUBEN|JJQ       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:26|6|83|JASEN, HERNAN|BIL       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|04:26|6|84|DOUGLAS, RUBEN|JJU       |Foul Drawn (1)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|04:26|6|85|BELINELLI, MARCO|BCN       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|04:26|6|86|DOUGLAS, RUBEN|JJU       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:10|6|87|SMODIS, MATJAZ|ALC       |Two Pointer (1/1 -  4 pt)|2FGM|10.0|9.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|04:10|6|88|BELINELLI, MARCO|BCN       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|03:53|7|90|LONCAR, NIKOLA|BIU       |Three Pointer (1/1 -  3 pt)|3FGM|13.0|9.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|03:53|7|91|AZOFRA, IGNACIO|AAP       |Assist (2)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|03:38|7|92|SMODIS, MATJAZ|ALC       |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|03:35|7|93|LONCAR, NIKOLA|BIU       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|03:35|7|94|BELINELLI, MARCO|BCN       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|03:35|7|95|PATTERSON, ANDRAE|CFE       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|03:35|7|96|JIMENEZ, CARLOS|AAS       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|03:35|7|97|GARCES, RUBEN|JJQ       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|03:35|7|98|JASEN, HERNAN|BIL       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|03:35|7|99|POZZECCO, GIANMARCO|BCU       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|03:35|7|100|VUJANIC, MILOS|AUP       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|03:35|7|101|LONCAR, NIKOLA|BIU       |Free Throw In (1/1 -  4 pt)|FTM|14.0|9.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|03:35|7|102|LONCAR, NIKOLA|BIU       |Free Throw In (2/2 -  5 pt)|FTM|15.0|9.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|03:19|7|103|BELINELLI, MARCO|BCN       |Layup Made (1/1 -  2 pt)|LAYUPMD|15.0|11.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|03:19|7|104|POZZECCO, GIANMARCO|BCU       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|03:13|7|105|AZOFRA, IGNACIO|AAP       |Layup Made (1/1 -  2 pt)|LAYUPMD|17.0|11.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|02:46|8|107|BASILE, GIANLUCA|ADS       |Missed Three Pointer (0/4 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|02:44|8|108|POZZECCO, GIANMARCO|BCU       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|02:43|8|109|POZZECCO, GIANMARCO|BCU       |Layup Made (1/1 -  2 pt)|LAYUPMD|17.0|13.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|02:40|8|110|ITURBE, IKER|AIS       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|02:40|8|111|BELINELLI, MARCO|BCN       |Steal (1)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|02:33|8|112|BELINELLI, MARCO|BCN       |Missed Three Pointer (0/1 -  2 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|02:32|8|113|PATTERSON, ANDRAE|CFE       |Def Rebound (5)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|02:22|8|114|SMODIS, MATJAZ|ALC       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|02:22|8|115|JIMENEZ, CARLOS|AAS       |Foul Drawn (2)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|02:22|8|116|RODRIGUEZ, SERGIO|CVM       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|02:22|8|117|AZOFRA, IGNACIO|AAP       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|02:22|8|118|JIMENEZ, CARLOS|AAS       |Free Throw In (1/1 -  1 pt)|FTM|18.0|13.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|02:22|8|119|JIMENEZ, CARLOS|AAS       |Free Throw In (2/2 -  2 pt)|FTM|19.0|13.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|02:10|8|120|SMODIS, MATJAZ|ALC       |Turnover (2)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|02:10|8|121|JIMENEZ, CARLOS|AAS       |Steal (1)|ST|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|01:58|9|123|BELINELLI, MARCO|BCN       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:58|9|124|JIMENEZ, CARLOS|AAS       |Foul Drawn (3)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:58|9|125|DOUGLAS, RUBEN|JJU       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|01:58|9|126|BASILE, GIANLUCA|ADS       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:58|9|127|JIMENEZ, CARLOS|AAS       |Free Throw In (3/3 -  3 pt)|FTM|20.0|13.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:58|9|128|JIMENEZ, CARLOS|AAS       |Missed Free Throw (3/4 -  3 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||01:58|9|129||          |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:42|9|130|SMODIS, MATJAZ|ALC       |Dunk (2/2 -  6 pt)|DUNK|20.0|15.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|01:42|9|131|POZZECCO, GIANMARCO|BCU       |Assist (2)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|01:33|9|132|RANCIK, MARTIN|CWH       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|01:33|9|133|RODRIGUEZ, SERGIO|CVM       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|01:33|9|134|RODRIGUEZ, SERGIO|CVM       |Free Throw In (1/1 -  1 pt)|FTM|21.0|15.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|01:33|9|135|RODRIGUEZ, SERGIO|CVM       |Free Throw In (2/2 -  2 pt)|FTM|22.0|15.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:21|9|136|SMODIS, MATJAZ|ALC       |Foul Drawn (2)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:21|9|137|PATTERSON, ANDRAE|CFE       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:21|9|138|SMODIS, MATJAZ|ALC       |Free Throw In (3/3 -  7 pt)|FTM|22.0|16.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:21|9|139|SMODIS, MATJAZ|ALC       |Free Throw In (4/4 -  8 pt)|FTM|22.0|17.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|01:05|9|140|ITURBE, IKER|AIS       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:03|9|141|JIMENEZ, CARLOS|AAS       |Off Rebound (1)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:03|9|142|JIMENEZ, CARLOS|AAS       |Layup Made (1/1 -  5 pt)|LAYUPMD|24.0|17.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|00:48|10|144|SMODIS, MATJAZ|ALC       |Three Pointer (1/1 -  11 pt)|3FGM|24.0|20.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|00:48|10|145|POZZECCO, GIANMARCO|BCU       |Assist (3)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|00:38|10|146|LONCAR, NIKOLA|BIU       |Missed Three Pointer (1/2 -  5 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|00:38|10|147|SMODIS, MATJAZ|ALC       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|00:29|10|148|POZZECCO, GIANMARCO|BCU       |Missed Layup (1/2 -  2 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|00:29|10|149|POZZECCO, GIANMARCO|BCU       |Shot Rejected (1)|AG|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|00:29|10|150|JIMENEZ, CARLOS|AAS       |Block (1)|FV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|00:29|10|151|JIMENEZ, CARLOS|AAS       |Def Rebound (2)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|00:22|10|152|LONCAR, NIKOLA|BIU       |Three Pointer (2/3 -  8 pt)|3FGM|27.0|20.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|00:01|10|153|SMODIS, MATJAZ|ALC       |Dunk (3/3 -  13 pt)|DUNK|27.0|22.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+          ||||11|155||          |End Period|EP||||0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|09:00|11|156|GARCES, RUBEN|JJQ       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|09:00|11|157|ITURBE, IKER|AIS       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|09:44|11|158|RANCIK, MARTIN|CWH       |Missed Two Pointer (0/1 -  0 pt)|2FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|09:42|11|159|DOUGLAS, RUBEN|JJU       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|09:42|11|160|DOUGLAS, RUBEN|JJU       |Layup Made (1/1 -  2 pt)|LAYUPMD|27.0|24.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|09:32|11|161|RODRIGUEZ, SERGIO|CVM       |Missed Three Pointer (0/1 -  2 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|09:32|11|162|SMODIS, MATJAZ|ALC       |Foul Drawn (3)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|09:32|11|163|GARCES, RUBEN|JJQ       |Foul (2)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||09:32|11|164||          |Def Rebound (3)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|09:32|11|165|BAGARIC, DALIBOR|AFG       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|09:32|11|166|SMODIS, MATJAZ|ALC       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|09:11|11|167|RANCIK, MARTIN|CWH       |Layup Made (1/2 -  2 pt)|LAYUPMD|27.0|26.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|08:55|12|169|PATTERSON, ANDRAE|CFE       |Two Pointer (2/2 -  4 pt)|2FGM|29.0|26.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|08:45|12|170|RANCIK, MARTIN|CWH       |Missed Three Pointer (0/1 -  2 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|08:45|12|171|BAGARIC, DALIBOR|AFG       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|08:33|12|172|DOUGLAS, RUBEN|JJU       |Layup Made (2/2 -  4 pt)|LAYUPMD|29.0|28.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|08:33|12|173|BAGARIC, DALIBOR|AFG       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|08:33|12|174|DOUGLAS, RUBEN|JJU       |Foul Drawn (2)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|08:33|12|175|JIMENEZ, CARLOS|AAS       |Foul (2)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|08:33|12|176|AZOFRA, IGNACIO|AAP       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:33|12|181|JASEN, HERNAN|BIL       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|08:33|12|177|RODRIGUEZ, SERGIO|CVM       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|08:33|12|180|LONCAR, NIKOLA|BIU       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|08:33|12|178|DOUGLAS, RUBEN|JJU       |Missed Free Throw (0/1 -  4 pt)|FTA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||08:33|12|179||          |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|08:23|12|182|RANCIK, MARTIN|CWH       |Missed Layup (1/3 -  2 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|08:23|12|183|JIMENEZ, CARLOS|AAS       |Def Rebound (3)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|08:23|12|184|JIMENEZ, CARLOS|AAS       |Foul Drawn (4)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|08:23|12|185|DOUGLAS, RUBEN|JJU       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|08:23|12|193|BASILE, GIANLUCA|ADS       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|08:23|12|192|BELINELLI, MARCO|BCN       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|08:05|12|186|PATTERSON, ANDRAE|CFE       |Two Pointer (3/3 -  6 pt)|2FGM|31.0|28.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|07:50|13|188|POZZECCO, GIANMARCO|BCU       |Missed Three Pointer (0/1 -  2 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|07:48|13|189|PATTERSON, ANDRAE|CFE       |Def Rebound (6)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|07:47|13|190|JIMENEZ, CARLOS|AAS       |Layup Made (2/2 -  7 pt)|LAYUPMD|33.0|28.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|07:47|13|191|PATTERSON, ANDRAE|CFE       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|07:25|13|194|POZZECCO, GIANMARCO|BCU       |Missed Layup (1/3 -  2 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|07:23|13|195|PATTERSON, ANDRAE|CFE       |Def Rebound (7)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:19|13|196|JASEN, HERNAN|BIL       |Foul Drawn (2)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|07:19|13|267|BASILE, GIANLUCA|ADS       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:19|13|197|ITURBE, IKER|AIS       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|07:19|13|198|GARCES, RUBEN|JJQ       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|07:19|13|199|VUJANIC, MILOS|AUP       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|07:19|13|200|LORBEK, ERAZEM|BWL       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|07:19|13|201|BAGARIC, DALIBOR|AFG       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|07:19|13|202|POZZECCO, GIANMARCO|BCU       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:11|13|203|JASEN, HERNAN|BIL       |Layup Made (3/3 -  7 pt)|LAYUPMD|35.0|28.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:11|13|204|ITURBE, IKER|AIS       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|06:48|14|206|VUJANIC, MILOS|AUP       |Missed Three Pointer (1/3 -  5 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|06:46|14|207|LORBEK, ERAZEM|BWL       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|06:44|14|208|BASILE, GIANLUCA|ADS       |Missed Three Pointer (0/5 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:43|14|209|DOUGLAS, RUBEN|JJU       |Off Rebound (2)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:43|14|210|DOUGLAS, RUBEN|JJU       |Foul Drawn (3)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|06:43|14|211|AZOFRA, IGNACIO|AAP       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:43|14|212|GARCES, RUBEN|JJQ       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|06:43|14|213|LONCAR, NIKOLA|BIU       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:43|14|214|PATTERSON, ANDRAE|CFE       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|06:43|14|215|JIMENEZ, CARLOS|AAS       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|06:43|14|216|MANCINELLI, STEFANO|ANH       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|06:43|14|217|BASILE, GIANLUCA|ADS       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:43|14|218|DOUGLAS, RUBEN|JJU       |Free Throw In (1/2 -  5 pt)|FTM|35.0|29.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:43|14|219|DOUGLAS, RUBEN|JJU       |Free Throw In (2/3 -  6 pt)|FTM|35.0|30.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:30|14|220|GARCES, RUBEN|JJQ       |Missed Layup (1/4 -  3 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:28|14|221|GARCES, RUBEN|JJQ       |Off Rebound (1)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:28|14|222|GARCES, RUBEN|JJQ       |Dunk (2/5 -  5 pt)|DUNK|37.0|30.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:12|14|223|DOUGLAS, RUBEN|JJU       |Three Pointer (1/2 -  9 pt)|3FGM|37.0|33.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|06:12|14|224|MANCINELLI, STEFANO|ANH       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|05:53|15|226|GARCES, RUBEN|JJQ       |Layup Made (3/6 -  7 pt)|LAYUPMD|39.0|33.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|05:53|15|227|ITURBE, IKER|AIS       |Assist (2)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|05:38|15|228|VUJANIC, MILOS|AUP       |Three Pointer (2/4 -  8 pt)|3FGM|39.0|36.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|05:35|15|229|LONCAR, NIKOLA|BIU       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|05:21|15|230|DOUGLAS, RUBEN|JJU       |Foul Drawn (4)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|05:21|15|231|LONCAR, NIKOLA|BIU       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|05:21|15|232|BELINELLI, MARCO|BCN       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|05:21|15|233|RANCIK, MARTIN|CWH       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|05:21|15|234|BELINELLI, MARCO|BCN       |Dunk (2/2 -  4 pt)|DUNK|39.0|38.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|05:21|15|235|VUJANIC, MILOS|AUP       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|05:06|15|236|GARCES, RUBEN|JJQ       |Missed Layup (3/7 -  7 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|05:05|15|237|LORBEK, ERAZEM|BWL       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|04:58|16|239|BELINELLI, MARCO|BCN       |Missed Three Pointer (0/2 -  4 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:57|16|240|JASEN, HERNAN|BIL       |Def Rebound (1)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|04:53|16|241|BELINELLI, MARCO|BCN       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:53|16|242|JASEN, HERNAN|BIL       |Foul Drawn (3)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|04:53|16|243|BASILE, GIANLUCA|ADS       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|04:53|16|244|BELINELLI, MARCO|BCN       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:53|16|245|JASEN, HERNAN|BIL       |Free Throw In (2/3 -  8 pt)|FTM|40.0|38.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:53|16|246|JASEN, HERNAN|BIL       |Missed Free Throw (2/4 -  8 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|04:53|16|247|MANCINELLI, STEFANO|ANH       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|04:37|16|248|DOUGLAS, RUBEN|JJU       |Missed Two Pointer (2/3 -  9 pt)|2FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:36|16|249|GARCES, RUBEN|JJQ       |Def Rebound (3)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:28|16|250|JASEN, HERNAN|BIL       |Layup Made (4/4 -  10 pt)|LAYUPMD|42.0|38.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|04:28|16|251|AZOFRA, IGNACIO|AAP       |Assist (3)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|04:01|16|252|MANCINELLI, STEFANO|ANH       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|03:59|17|254|LONCAR, NIKOLA|BIU       |Def Rebound (1)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|03:53|17|255|AZOFRA, IGNACIO|AAP       |Missed Layup (1/2 -  2 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|03:53|17|256|MANCINELLI, STEFANO|ANH       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|03:45|17|257|VUJANIC, MILOS|AUP       |Missed Three Pointer (2/5 -  8 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|03:43|17|258|JASEN, HERNAN|BIL       |Def Rebound (2)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|03:40|17|259|MANCINELLI, STEFANO|ANH       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|03:40|17|260|JASEN, HERNAN|BIL       |Foul Drawn (4)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||03:40|17|261||          |Time Out (1)|TOUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|03:40|17|262|PATTERSON, ANDRAE|CFE       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|03:40|17|263|RODRIGUEZ, SERGIO|CVM       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|03:40|17|264|GARCES, RUBEN|JJQ       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|03:40|17|265|AZOFRA, IGNACIO|AAP       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|03:32|17|266|RODRIGUEZ, SERGIO|CVM       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|03:15|17|268|DOUGLAS, RUBEN|JJU       |Missed Two Pointer (2/4 -  9 pt)|2FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|03:14|17|269|LORBEK, ERAZEM|BWL       |Off Rebound (2)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|03:04|17|270|JASEN, HERNAN|BIL       |Foul (2)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|03:04|17|271|VUJANIC, MILOS|AUP       |Foul Drawn (2)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|03:04|17|272|VUJANIC, MILOS|AUP       |Free Throw In (1/2 -  9 pt)|FTM|42.0|39.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|03:04|17|273|VUJANIC, MILOS|AUP       |Free Throw In (2/3 -  10 pt)|FTM|42.0|40.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|02:48|18|275|JASEN, HERNAN|BIL       |Turnover (3)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:48|18|276|VUJANIC, MILOS|AUP       |Steal (1)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|02:38|18|277|DOUGLAS, RUBEN|JJU       |Three Pointer (2/3 -  12 pt)|3FGM|42.0|43.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:38|18|278|VUJANIC, MILOS|AUP       |Assist (2)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|02:18|18|279|JASEN, HERNAN|BIL       |Missed Three Pointer (0/3 -  10 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|02:11|18|280|BASILE, GIANLUCA|ADS       |Missed Three Pointer (0/6 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:09|18|281|VUJANIC, MILOS|AUP       |Off Rebound (2)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|01:58|19|283|VUJANIC, MILOS|AUP       |Missed Three Pointer (2/6 -  10 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|01:56|19|284|MANCINELLI, STEFANO|ANH       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|01:38|19|285|BASILE, GIANLUCA|ADS       |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:38|19|286|PATTERSON, ANDRAE|CFE       |Steal (1)|ST|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||01:38|19|287||          |Time Out (1)|TOUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|01:16|19|288|MANCINELLI, STEFANO|ANH       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:16|19|289|PATTERSON, ANDRAE|CFE       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:16|19|290|PATTERSON, ANDRAE|CFE       |Missed Free Throw (0/1 -  6 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:16|19|291|PATTERSON, ANDRAE|CFE       |Missed Free Throw (0/2 -  6 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:16|19|292|DOUGLAS, RUBEN|JJU       |Def Rebound (3)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|01:08|19|293|MANCINELLI, STEFANO|ANH       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|01:08|19|294|JASEN, HERNAN|BIL       |Def Rebound (3)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|00:58|20|296|PATTERSON, ANDRAE|CFE       |Layup Made (4/4 -  8 pt)|LAYUPMD|44.0|43.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|00:58|20|297|RODRIGUEZ, SERGIO|CVM       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|00:36|20|298|LORBEK, ERAZEM|BWL       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|00:34|20|299|VUJANIC, MILOS|AUP       |Off Rebound (3)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:11|20|300|BASILE, GIANLUCA|ADS       |Missed Two Pointer (0/2 -  0 pt)|2FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|00:05|20|301|MANCINELLI, STEFANO|ANH       |Off Rebound (2)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|00:05|20|302|MANCINELLI, STEFANO|ANH       |Layup Made (1/2 -  2 pt)|LAYUPMD|44.0|45.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|00:02|20|303|LONCAR, NIKOLA|BIU       |Missed Three Pointer (2/4 -  8 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+          ||||21|305||          |End Period|EP||||0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|09:00|21|306|AZOFRA, IGNACIO|AAP       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|09:00|21|307|JIMENEZ, CARLOS|AAS       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|09:00|21|308|GARCES, RUBEN|JJQ       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|09:00|21|309|ITURBE, IKER|AIS       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|09:00|21|310|LONCAR, NIKOLA|BIU       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|09:00|21|311|RODRIGUEZ, SERGIO|CVM       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|09:00|21|312|SMODIS, MATJAZ|ALC       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|09:00|21|313|BAGARIC, DALIBOR|AFG       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|09:00|21|314|LORBEK, ERAZEM|BWL       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|09:00|21|315|MANCINELLI, STEFANO|ANH       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|09:45|21|316|BASILE, GIANLUCA|ADS       |Three Pointer (1/7 -  3 pt)|3FGM|44.0|48.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|09:45|21|317|BAGARIC, DALIBOR|AFG       |Assist (2)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|09:32|21|318|PATTERSON, ANDRAE|CFE       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|09:09|21|319|DOUGLAS, RUBEN|JJU       |Three Pointer (3/4 -  15 pt)|3FGM|44.0|51.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|08:52|22|321|JIMENEZ, CARLOS|AAS       |Missed Three Pointer (0/1 -  7 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:51|22|322|JASEN, HERNAN|BIL       |Off Rebound (1)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:51|22|323|JASEN, HERNAN|BIL       |Foul Drawn (5)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|08:51|22|324|BAGARIC, DALIBOR|AFG       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:51|22|325|JASEN, HERNAN|BIL       |Free Throw In (3/5 -  11 pt)|FTM|45.0|51.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:51|22|326|JASEN, HERNAN|BIL       |Free Throw In (4/6 -  12 pt)|FTM|46.0|51.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|08:31|22|327|BASILE, GIANLUCA|ADS       |Three Pointer (2/8 -  6 pt)|3FGM|46.0|54.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|08:31|22|328|DOUGLAS, RUBEN|JJU       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|08:26|22|329|GARCES, RUBEN|JJQ       |Missed Layup (3/8 -  7 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|08:26|22|330|BAGARIC, DALIBOR|AFG       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|08:19|22|331|BASILE, GIANLUCA|ADS       |Three Pointer (3/9 -  9 pt)|3FGM|46.0|57.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|08:03|22|332|BAGARIC, DALIBOR|AFG       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|08:03|22|333|GARCES, RUBEN|JJQ       |Foul Drawn (2)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:59|23|335|JASEN, HERNAN|BIL       |Foul Drawn (6)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|07:59|23|336|DOUGLAS, RUBEN|JJU       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:59|23|337|JASEN, HERNAN|BIL       |Missed Free Throw (4/7 -  12 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:59|23|338|JASEN, HERNAN|BIL       |Free Throw In (5/8 -  13 pt)|FTM|47.0|57.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|07:41|23|339|BASILE, GIANLUCA|ADS       |Missed Three Pointer (3/10 -  9 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|07:41|23|340|JIMENEZ, CARLOS|AAS       |Def Rebound (4)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|07:38|23|341|GARCES, RUBEN|JJQ       |Missed Layup (3/9 -  7 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:35|23|355|JASEN, HERNAN|BIL       |Off Rebound (2)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|07:22|23|356|PATTERSON, ANDRAE|CFE       |Three Pointer (1/1 -  11 pt)|3FGM|50.0|57.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|06:57|24|358|JASEN, HERNAN|BIL       |Foul (3)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|06:57|24|359|SMODIS, MATJAZ|ALC       |Foul Drawn (4)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|06:57|24|360|MISO, ANDRES|BIR       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|06:57|24|361|JASEN, HERNAN|BIL       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|06:57|24|362|SMODIS, MATJAZ|ALC       |Free Throw In (5/5 -  14 pt)|FTM|50.0|58.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|06:57|24|363|SMODIS, MATJAZ|ALC       |Free Throw In (6/6 -  15 pt)|FTM|50.0|59.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|06:57|24|364|SMODIS, MATJAZ|ALC       |Free Throw In (7/7 -  16 pt)|FTM|50.0|60.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|06:50|24|369|VUJANIC, MILOS|AUP       |Missed Three Pointer (2/7 -  10 pt)|3FGAB|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|06:48|24|370|DOUGLAS, RUBEN|JJU       |Off Rebound (3)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||06:24|24|371||          |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|06:05|24|365|JIMENEZ, CARLOS|AAS       |Missed Layup (2/3 -  7 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|06:05|24|366|JIMENEZ, CARLOS|AAS       |Shot Rejected (1)|AG|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|06:05|24|367|BAGARIC, DALIBOR|AFG       |Block (1)|FV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:05|24|368|PATTERSON, ANDRAE|CFE       |Off Rebound (1)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:03|24|372|PATTERSON, ANDRAE|CFE       |Foul Drawn (2)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|06:03|24|373|BAGARIC, DALIBOR|AFG       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:03|24|374|PATTERSON, ANDRAE|CFE       |Free Throw In (1/3 -  12 pt)|FTM|51.0|60.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|06:03|24|375|PATTERSON, ANDRAE|CFE       |Free Throw In (2/4 -  13 pt)|FTM|52.0|60.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||05:49|25|377||          |Time Out (1)|TOUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|05:49|25|378|RANCIK, MARTIN|CWH       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||11|05:49|25|379|BAGARIC, DALIBOR|AFG       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|05:41|25|382|VUJANIC, MILOS|AUP       |Missed Three Pointer (2/8 -  10 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|05:40|25|383|JIMENEZ, CARLOS|AAS       |Def Rebound (5)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|05:32|25|384|AZOFRA, IGNACIO|AAP       |Missed Layup (1/3 -  2 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|05:30|25|385|BASILE, GIANLUCA|ADS       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|05:23|25|386|DOUGLAS, RUBEN|JJU       |Missed Three Pointer (3/5 -  15 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|05:23|25|387|GARCES, RUBEN|JJQ       |Def Rebound (4)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|05:09|25|388|MISO, ANDRES|BIR       |Missed Two Pointer (0/1 -  0 pt)|2FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|05:09|25|389|GARCES, RUBEN|JJQ       |Off Rebound (2)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:54|26|391|GARCES, RUBEN|JJQ       |Turnover (2)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|04:54|26|392|BASILE, GIANLUCA|ADS       |Steal (1)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|04:51|26|393|AZOFRA, IGNACIO|AAP       |Foul (2)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|04:51|26|394|VUJANIC, MILOS|AUP       |Foul Drawn (3)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|04:44|26|395|DOUGLAS, RUBEN|JJU       |Turnover (3)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|04:44|26|396|JIMENEZ, CARLOS|AAS       |Steal (2)|ST|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:37|26|397|GARCES, RUBEN|JJQ       |Foul Drawn (3)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|04:37|26|398|RANCIK, MARTIN|CWH       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:37|26|399|GARCES, RUBEN|JJQ       |Missed Free Throw (1/3 -  7 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:37|26|400|GARCES, RUBEN|JJQ       |Free Throw In (2/4 -  8 pt)|FTM|53.0|60.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:23|26|401|SMODIS, MATJAZ|ALC       |Turnover (3)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:09|26|402|GARCES, RUBEN|JJQ       |Turnover (3)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:09|26|403|GARCES, RUBEN|JJQ       |Offensive Foul (3)|OF|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:09|26|404|SMODIS, MATJAZ|ALC       |Foul Drawn (5)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|04:09|26|405|ITURBE, IKER|AIS       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:09|26|406|GARCES, RUBEN|JJQ       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|03:51|27|408|BASILE, GIANLUCA|ADS       |Missed Three Pointer (3/11 -  9 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||03:51|27|409||          |Def Rebound (4)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|03:35|27|410|ITURBE, IKER|AIS       |Turnover (2)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|03:35|27|411|BASILE, GIANLUCA|ADS       |Steal (2)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|03:18|27|412|RANCIK, MARTIN|CWH       |Missed Layup (1/4 -  2 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|03:18|27|413|PATTERSON, ANDRAE|CFE       |Def Rebound (8)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|03:12|27|414|JIMENEZ, CARLOS|AAS       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|03:12|27|415|JIMENEZ, CARLOS|AAS       |Offensive Foul (3)|OF|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|03:12|27|416|BASILE, GIANLUCA|ADS       |Foul Drawn (1)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|03:12|27|417|MANCINELLI, STEFANO|ANH       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|03:12|27|418|BASILE, GIANLUCA|ADS       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|02:57|28|420|RANCIK, MARTIN|CWH       |Missed Layup (1/5 -  2 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||02:56|28|421||          |Off Rebound (2)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|02:43|28|422|MISO, ANDRES|BIR       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:43|28|423|VUJANIC, MILOS|AUP       |Foul Drawn (4)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:43|28|424|VUJANIC, MILOS|AUP       |Free Throw In (3/4 -  11 pt)|FTM|53.0|61.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:43|28|425|VUJANIC, MILOS|AUP       |Free Throw In (4/5 -  12 pt)|FTM|53.0|62.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|02:37|28|426|SMODIS, MATJAZ|ALC       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|02:37|28|427|PATTERSON, ANDRAE|CFE       |Foul Drawn (3)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|02:37|28|428|LORBEK, ERAZEM|BWL       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|02:37|28|429|SMODIS, MATJAZ|ALC       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|02:37|28|430|PATTERSON, ANDRAE|CFE       |Free Throw In (3/5 -  14 pt)|FTM|54.0|62.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|02:37|28|431|PATTERSON, ANDRAE|CFE       |Free Throw In (4/6 -  15 pt)|FTM|55.0|62.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:15|28|432|VUJANIC, MILOS|AUP       |Two Pointer (2/3 -  14 pt)|2FGM|55.0|64.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|02:10|28|433|VUJANIC, MILOS|AUP       |Foul (2)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|02:10|28|434|AZOFRA, IGNACIO|AAP       |Foul Drawn (2)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|02:10|28|435|GARCES, RUBEN|JJQ       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|02:10|28|436|PATTERSON, ANDRAE|CFE       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|02:10|28|437|AZOFRA, IGNACIO|AAP       |Free Throw In (1/1 -  3 pt)|FTM|56.0|64.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|02:10|28|438|AZOFRA, IGNACIO|AAP       |Free Throw In (2/2 -  4 pt)|FTM|57.0|64.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|02:10|28|439|RODRIGUEZ, SERGIO|CVM       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|02:10|28|440|AZOFRA, IGNACIO|AAP       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|01:51|29|442|VUJANIC, MILOS|AUP       |Missed Three Pointer (2/9 -  14 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:49|29|443|DOUGLAS, RUBEN|JJU       |Off Rebound (4)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:49|29|444|DOUGLAS, RUBEN|JJU       |Missed Two Pointer (2/5 -  15 pt)|2FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|01:42|29|445|MANCINELLI, STEFANO|ANH       |Off Rebound (3)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|01:42|29|446|MANCINELLI, STEFANO|ANH       |Two Pointer (2/3 -  4 pt)|2FGM|57.0|66.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|01:22|29|447|MISO, ANDRES|BIR       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|01:19|29|448|MANCINELLI, STEFANO|ANH       |Def Rebound (3)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:18|29|449|JIMENEZ, CARLOS|AAS       |Foul (4)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|01:18|29|450|VUJANIC, MILOS|AUP       |Foul Drawn (5)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|01:18|29|451|JASEN, HERNAN|BIL       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:18|29|452|JIMENEZ, CARLOS|AAS       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|01:18|29|453|VUJANIC, MILOS|AUP       |Free Throw In (5/6 -  15 pt)|FTM|57.0|67.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|01:18|29|454|VUJANIC, MILOS|AUP       |Free Throw In (6/7 -  16 pt)|FTM|57.0|68.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|01:09|29|455|ITURBE, IKER|AIS       |Three Pointer (1/2 -  3 pt)|3FGM|60.0|68.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|01:09|29|456|MISO, ANDRES|BIR       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|00:50|30|458|DOUGLAS, RUBEN|JJU       |Missed Three Pointer (3/6 -  15 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|00:48|30|459|GARCES, RUBEN|JJQ       |Def Rebound (5)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|00:42|30|460|MISO, ANDRES|BIR       |Layup Made (1/2 -  2 pt)|LAYUPMD|62.0|68.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|00:42|30|461|RODRIGUEZ, SERGIO|CVM       |Assist (2)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|00:42|30|462|VUJANIC, MILOS|AUP       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|00:42|30|463|MISO, ANDRES|BIR       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:42|30|464|BASILE, GIANLUCA|ADS       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|00:42|30|465|DOUGLAS, RUBEN|JJU       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|00:42|30|466|MISO, ANDRES|BIR       |Free Throw In (1/1 -  3 pt)|FTM|63.0|68.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|00:25|30|467|RANCIK, MARTIN|CWH       |Two Pointer (2/6 -  4 pt)|2FGM|63.0|70.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:25|30|468|BASILE, GIANLUCA|ADS       |Assist (1)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|00:03|30|469|RODRIGUEZ, SERGIO|CVM       |Missed Layup (0/1 -  2 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|00:02|30|470|LORBEK, ERAZEM|BWL       |Def Rebound (3)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:01|30|471|BASILE, GIANLUCA|ADS       |Missed Three Pointer (3/12 -  9 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+          ||||31|473||          |End Period|EP||||0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|09:00|31|474|POZZECCO, GIANMARCO|BCU       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||13|09:00|31|475|VUJANIC, MILOS|AUP       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|09:46|31|476|MISO, ANDRES|BIR       |Turnover (1)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|09:46|31|477|LORBEK, ERAZEM|BWL       |Steal (1)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|09:22|31|478|BASILE, GIANLUCA|ADS       |Missed Three Pointer (3/13 -  9 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|09:20|31|479|RANCIK, MARTIN|CWH       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|09:20|31|480|RANCIK, MARTIN|CWH       |Layup Made (3/7 -  6 pt)|LAYUPMD|63.0|72.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|09:10|31|481|MISO, ANDRES|BIR       |Three Pointer (1/2 -  6 pt)|3FGM|66.0|72.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|09:10|31|482|ITURBE, IKER|AIS       |Assist (3)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|08:48|32|484|RANCIK, MARTIN|CWH       |Two Pointer (4/8 -  8 pt)|2FGM|66.0|74.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|08:30|32|485|JASEN, HERNAN|BIL       |Three Pointer (1/4 -  16 pt)|3FGM|69.0|74.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|08:30|32|486|ITURBE, IKER|AIS       |Assist (4)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|08:12|32|487|BASILE, GIANLUCA|ADS       |Three Pointer (4/14 -  12 pt)|3FGM|69.0|77.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|07:52|33|489|LORBEK, ERAZEM|BWL       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|07:52|33|490|GARCES, RUBEN|JJQ       |Foul Drawn (4)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|07:52|33|491|SMODIS, MATJAZ|ALC       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|07:52|33|492|LORBEK, ERAZEM|BWL       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:50|33|493|ITURBE, IKER|AIS       |Two Pointer (1/1 -  5 pt)|2FGM|71.0|77.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|07:50|33|494|JASEN, HERNAN|BIL       |Assist (1)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:50|33|495|ITURBE, IKER|AIS       |Foul Drawn (1)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|07:50|33|496|RANCIK, MARTIN|CWH       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:50|33|497|ITURBE, IKER|AIS       |Free Throw In (1/1 -  6 pt)|FTM|72.0|77.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:29|33|498|ITURBE, IKER|AIS       |Foul (1)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|07:29|33|499|RANCIK, MARTIN|CWH       |Foul Drawn (1)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|07:29|33|500|RANCIK, MARTIN|CWH       |Free Throw In (1/1 -  9 pt)|FTM|72.0|78.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|07:29|33|501|RANCIK, MARTIN|CWH       |Free Throw In (2/2 -  10 pt)|FTM|72.0|79.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|07:20|33|502|BASILE, GIANLUCA|ADS       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|07:20|33|503|MISO, ANDRES|BIR       |Foul Drawn (2)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|07:15|33|504|ITURBE, IKER|AIS       |Missed Three Pointer (1/3 -  6 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|07:13|33|505|RODRIGUEZ, SERGIO|CVM       |Off Rebound (1)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|07:04|33|506|RODRIGUEZ, SERGIO|CVM       |Missed Three Pointer (0/2 -  2 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|07:02|33|507|RANCIK, MARTIN|CWH       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|06:57|34|509|BASILE, GIANLUCA|ADS       |Missed Layup (0/3 -  12 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|06:53|34|510|JASEN, HERNAN|BIL       |Def Rebound (4)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|06:44|34|511|MISO, ANDRES|BIR       |Missed Three Pointer (1/3 -  6 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|06:42|34|512|POZZECCO, GIANMARCO|BCU       |Def Rebound (1)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|06:31|34|513|SMODIS, MATJAZ|ALC       |Three Pointer (2/2 -  19 pt)|3FGM|72.0|82.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|06:31|34|514|POZZECCO, GIANMARCO|BCU       |Assist (4)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|06:15|34|515|MANCINELLI, STEFANO|ANH       |Foul (3)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|06:15|34|516|JASEN, HERNAN|BIL       |Foul Drawn (7)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|06:15|34|517|MISO, ANDRES|BIR       |Missed Layup (1/3 -  6 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:13|34|518|GARCES, RUBEN|JJQ       |Off Rebound (3)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|06:13|34|519|GARCES, RUBEN|JJQ       |Dunk (4/10 -  10 pt)|DUNK|74.0|82.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|05:55|35|521|MANCINELLI, STEFANO|ANH       |Missed Three Pointer (0/2 -  4 pt)|3FGA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|05:55|35|522|SMODIS, MATJAZ|ALC       |Off Rebound (1)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|05:55|35|523|ITURBE, IKER|AIS       |Foul (2)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|05:55|35|524|SMODIS, MATJAZ|ALC       |Foul Drawn (6)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|05:55|35|525|PATTERSON, ANDRAE|CFE       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|05:55|35|526|GARCES, RUBEN|JJQ       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|05:39|35|527|BASILE, GIANLUCA|ADS       |Three Pointer (5/15 -  15 pt)|3FGM|74.0|85.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|05:39|35|528|POZZECCO, GIANMARCO|BCU       |Assist (5)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|05:39|35|529|JASEN, HERNAN|BIL       |Missed Two Pointer (4/5 -  16 pt)|2FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|05:32|35|530|BASILE, GIANLUCA|ADS       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|05:05|35|531|RANCIK, MARTIN|CWH       |Two Pointer (5/9 -  12 pt)|2FGM|74.0|87.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|05:05|35|532|POZZECCO, GIANMARCO|BCU       |Assist (6)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||05:05|35|533||          |Time Out (1)|TOUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||15|05:05|35|539|ITURBE, IKER|AIS       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|05:05|35|538|GARCES, RUBEN|JJQ       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|04:45|36|552|RANCIK, MARTIN|CWH       |Foul (4)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:45|36|553|GARCES, RUBEN|JJQ       |Foul Drawn (5)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:45|36|554|GARCES, RUBEN|JJQ       |Free Throw In (3/5 -  11 pt)|FTM|75.0|87.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:45|36|555|GARCES, RUBEN|JJQ       |Missed Free Throw (3/6 -  11 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:42|36|557|JASEN, HERNAN|BIL       |Off Rebound (3)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:42|36|558|SMODIS, MATJAZ|ALC       |Foul (4)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:42|36|559|JASEN, HERNAN|BIL       |Foul Drawn (8)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:42|36|560|JASEN, HERNAN|BIL       |Free Throw In (6/9 -  17 pt)|FTM|76.0|87.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:42|36|561|JASEN, HERNAN|BIL       |Free Throw In (7/10 -  18 pt)|FTM|77.0|87.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|04:31|36|562|POZZECCO, GIANMARCO|BCU       |Foul Drawn (1)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|04:31|36|563|JASEN, HERNAN|BIL       |Foul (4)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:21|36|564|SMODIS, MATJAZ|ALC       |Missed Layup (3/4 -  19 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|04:21|36|565|SMODIS, MATJAZ|ALC       |Shot Rejected (1)|AG|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:21|36|566|GARCES, RUBEN|JJQ       |Block (1)|FV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|04:21|36|567|MANCINELLI, STEFANO|ANH       |Off Rebound (4)|O|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||6|04:19|36|568|MANCINELLI, STEFANO|ANH       |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:11|36|569|GARCES, RUBEN|JJQ       |Missed Layup (4/11 -  11 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|04:11|36|570|GARCES, RUBEN|JJQ       |Shot Rejected (1)|AG|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|04:11|36|571|RANCIK, MARTIN|CWH       |Block (1)|FV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||04:10|36|572||          |Off Rebound (3)|O|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|03:58|37|574|POZZECCO, GIANMARCO|BCU       |Steal (1)|ST|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|03:58|37|575|JASEN, HERNAN|BIL       |Turnover (4)|TO|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|03:46|37|576|RANCIK, MARTIN|CWH       |Missed Layup (5/10 -  12 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|03:46|37|577|RANCIK, MARTIN|CWH       |Shot Rejected (1)|AG|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|03:46|37|578|JASEN, HERNAN|BIL       |Block (1)|FV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|03:46|37|579|PATTERSON, ANDRAE|CFE       |Def Rebound (9)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|03:33|37|580|RANCIK, MARTIN|CWH       |Foul (5)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|03:33|37|581|GARCES, RUBEN|JJQ       |Foul Drawn (6)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|03:33|37|582|LONCAR, NIKOLA|BIU       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||11|03:33|37|591|RODRIGUEZ, SERGIO|CVM       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|03:33|37|590|AZOFRA, IGNACIO|AAP       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||8|03:33|37|583|MISO, ANDRES|BIR       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|03:33|37|584|DOUGLAS, RUBEN|JJU       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||14|03:33|37|585|RANCIK, MARTIN|CWH       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|03:33|37|586|GARCES, RUBEN|JJQ       |Missed Free Throw (3/7 -  11 pt)|FTA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|03:33|37|587|GARCES, RUBEN|JJQ       |Free Throw In (4/8 -  12 pt)|FTM|78.0|87.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|03:33|37|588|PATTERSON, ANDRAE|CFE       |Assist (2)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|03:11|37|589|POZZECCO, GIANMARCO|BCU       |Turnover (1)|TO|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|03:02|37|592|PATTERSON, ANDRAE|CFE       |Dunk (5/5 -  17 pt)|DUNK|80.0|87.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|02:35|38|594|BASILE, GIANLUCA|ADS       |Two Pointer (1/4 -  17 pt)|2FGM|80.0|89.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|02:20|38|595|GARCES, RUBEN|JJQ       |Missed Layup (4/12 -  12 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|02:18|38|596|DOUGLAS, RUBEN|JJU       |Def Rebound (4)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       |||01:58|39|598||          |Time Out (1)|TOUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|01:57|39|599|BASILE, GIANLUCA|ADS       |Missed Layup (1/5 -  17 pt)|LAYUPATT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|01:57|39|600|BASILE, GIANLUCA|ADS       |Shot Rejected (2)|AG|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|01:57|39|601|JASEN, HERNAN|BIL       |Block (2)|FV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:57|39|602|PATTERSON, ANDRAE|CFE       |Def Rebound (10)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||7|01:53|39|603|LONCAR, NIKOLA|BIU       |Layup Made (1/1 -  10 pt)|LAYUPMD|82.0|89.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:53|39|604|PATTERSON, ANDRAE|CFE       |Assist (3)|AS|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||21|01:42|39|605|PATTERSON, ANDRAE|CFE       |Foul (2)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|01:42|39|606|POZZECCO, GIANMARCO|BCU       |Foul Drawn (2)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|01:20|39|607|JASEN, HERNAN|BIL       |Foul (5)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:20|39|608|SMODIS, MATJAZ|ALC       |Foul Drawn (7)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||10|01:20|39|609|JIMENEZ, CARLOS|AAS       |In|IN|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||14|01:20|39|610|JASEN, HERNAN|BIL       |Out|OUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:20|39|611|SMODIS, MATJAZ|ALC       |Free Throw In (8/8 -  20 pt)|FTM|82.0|90.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|01:20|39|612|SMODIS, MATJAZ|ALC       |Free Throw In (9/9 -  21 pt)|FTM|82.0|91.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|01:14|39|613|AZOFRA, IGNACIO|AAP       |Missed Three Pointer (0/1 -  4 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|01:14|39|614|POZZECCO, GIANMARCO|BCU       |Def Rebound (2)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:14|39|615|DOUGLAS, RUBEN|JJU       |Layup Made (3/6 -  17 pt)|LAYUPMD|82.0|93.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|01:14|39|616|POZZECCO, GIANMARCO|BCU       |Assist (7)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:14|39|617|DOUGLAS, RUBEN|JJU       |Foul Drawn (5)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|01:14|39|618|AZOFRA, IGNACIO|AAP       |Foul (3)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||01:14|39|619||          |Time Out (2)|TOUT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|01:14|39|620|DOUGLAS, RUBEN|JJU       |Missed Free Throw (2/4 -  17 pt)|FTA|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       |||01:14|39|621||          |Def Rebound (5)|D|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|01:03|39|622|POZZECCO, GIANMARCO|BCU       |Foul (1)|CM|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|01:03|39|623|AZOFRA, IGNACIO|AAP       |Foul Drawn (3)|RV|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|01:03|39|624|AZOFRA, IGNACIO|AAP       |Free Throw In (3/3 -  5 pt)|FTM|83.0|93.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|01:03|39|625|AZOFRA, IGNACIO|AAP       |Free Throw In (4/4 -  6 pt)|FTM|84.0|93.0|Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|00:45|40|627|SMODIS, MATJAZ|ALC       |Layup Made (4/5 -  23 pt)|LAYUPMD|84.0|95.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|00:45|40|628|POZZECCO, GIANMARCO|BCU       |Assist (8)|AS|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|00:45|40|629|AZOFRA, IGNACIO|AAP       |Missed Three Pointer (0/2 -  6 pt)|3FGA|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|00:45|40|630|DOUGLAS, RUBEN|JJU       |Def Rebound (5)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:26|40|631|BASILE, GIANLUCA|ADS       |Foul Drawn (2)|RV|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||12|00:26|40|632|AZOFRA, IGNACIO|AAP       |Foul (4)|CM|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||15|00:26|40|633|LORBEK, ERAZEM|BWL       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||9|00:26|40|634|BELINELLI, MARCO|BCN       |In|IN|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||8|00:26|40|635|SMODIS, MATJAZ|ALC       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||12|00:26|40|636|POZZECCO, GIANMARCO|BCU       |Out|OUT|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:26|40|637|BASILE, GIANLUCA|ADS       |Free Throw In (1/1 -  18 pt)|FTM|84.0|96.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||5|00:26|40|638|BASILE, GIANLUCA|ADS       |Free Throw In (2/2 -  19 pt)|FTM|84.0|97.0|Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+EST       ||24|00:19|40|639|GARCES, RUBEN|JJQ       |Missed Layup (4/13 -  12 pt)|LAYUPATT|||Adecco Estudiantes|0|PALACIO VISTALEGRE|EST|FOR|27
+FOR       ||20|00:17|40|640|DOUGLAS, RUBEN|JJU       |Def Rebound (6)|D|||Climamio Bologna|0|PALACIO VISTALEGRE|EST|FOR|27
+          ||||41|643||          |End Game|EG||||0|PALACIO VISTALEGRE|EST|FOR|27

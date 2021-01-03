@@ -1,0 +1,446 @@
+CODETEAM|COMMENT|DORSAL|MARKERTIME|MINUTE|NUMBEROFPLAY|PLAYER|PLAYER_ID|PLAYINFO|PLAYTYPE|POINTS_A|POINTS_B|TEAM|TYPE|Stadium|Local|Visitor|Game
+TRE       ||10|09:37|1|2|NAUMOSKI, PETAR|AHY       |Three Pointer (1/1 -  3 pt)|3FGM|3.0||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|09:27|1|3|MARCONATO, DENIS|AHW       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|09:27|1|4|MEEK, ERIK|AIU       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|09:15|1|5|ITURBE, IKER|AIS       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|09:13|1|6|MARCONATO, DENIS|AHW       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|09:04|1|7|ANGULO, LUCIO|AIO       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|09:04|1|8|BROWN, MARCUS|AHT       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:55|2|10|BROWN, MARCUS|AHT       |Layup Made (1/1 -  2 pt)|LAYUPMD|5.0||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|08:35|2|11|HERREROS, ALBERTO|AIR       |Two Pointer (1/1 -  2 pt)|2FGM|5.0|2.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|08:32|2|12|LOPEZ, RAUL|AIT       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|08:30|2|13|HERREROS, ALBERTO|AIR       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:30|2|14|BROWN, MARCUS|AHT       |Foul Drawn (2)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:30|2|15|BROWN, MARCUS|AHT       |Free Throw In (1/1 -  3 pt)|FTM|6.0|2.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:30|2|16|BROWN, MARCUS|AHT       |Free Throw In (2/2 -  4 pt)|FTM|7.0|2.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|08:16|2|17|HERREROS, ALBERTO|AIR       |Missed Three Pointer (0/1 -  2 pt)|3FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|08:13|2|18|NAUMOSKI, PETAR|AHY       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|08:07|2|19|NAUMOSKI, PETAR|AHY       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|08:07|2|20|ITURBE, IKER|AIS       |Steal (1)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|08:07|2|21|NAUMOSKI, PETAR|AHY       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|08:07|2|22|LOPEZ, RAUL|AIT       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|07:58|3|24|LOPEZ, RAUL|AIT       |Three Pointer (1/1 -  3 pt)|3FGM|7.0|5.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|07:37|3|25|GARBAJOSA, JORGE|AHV       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|07:24|3|26|ITURBE, IKER|AIS       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|07:23|3|27|BROWN, MARCUS|AHT       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|07:11|3|28|BROWN, MARCUS|AHT       |Layup Made (2/2 -  6 pt)|LAYUPMD|9.0|5.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|07:09|3|29|PITTIS, RICCARDO|AIA       |Assist (1)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|06:45|4|31|ITURBE, IKER|AIS       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|06:28|4|32|MEEK, ERIK|AIU       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|06:28|4|33|MARCONATO, DENIS|AHW       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|06:17|4|34|PITTIS, RICCARDO|AIA       |Missed Two Pointer (0/1 -  0 pt)|2FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|06:16|4|35|ITURBE, IKER|AIS       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|06:09|4|36|ITURBE, IKER|AIS       |Turnover (2)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|06:06|4|37|MARCONATO, DENIS|AHW       |Steal (1)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|06:05|4|38|MARCONATO, DENIS|AHW       |Dunk (1/1 -  2 pt)|DUNK|11.0|5.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|05:53|5|40|MEEK, ERIK|AIU       |Foul Drawn (2)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:53|5|41|GARBAJOSA, JORGE|AHV       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|05:53|5|42|MEEK, ERIK|AIU       |Free Throw In (1/1 -  1 pt)|FTM|11.0|6.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|05:53|5|43|ANGULO, LUCIO|AIO       |Free Throw In (1/1 -  1 pt)|FTM|11.0|7.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|05:26|5|44|NAUMOSKI, PETAR|AHY       |Missed Two Pointer (0/1 -  3 pt)|2FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:25|5|45|GARBAJOSA, JORGE|AHV       |Off Rebound (1)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|05:18|5|46|MARCONATO, DENIS|AHW       |Missed Two Pointer (1/2 -  2 pt)|2FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|05:14|5|47|LOPEZ, RAUL|AIT       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|04:57|6|49|ITURBE, IKER|AIS       |Turnover (3)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|04:48|6|50|BROWN, MARCUS|AHT       |Assist (1)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|04:46|6|51|GARBAJOSA, JORGE|AHV       |Dunk (1/1 -  2 pt)|DUNK|13.0|7.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|04:25|6|52|LOPEZ, RAUL|AIT       |Three Pointer (2/2 -  6 pt)|3FGM|13.0|10.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:07|6|53|PITTIS, RICCARDO|AIA       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|04:07|6|54|ANGULO, LUCIO|AIO       |Steal (1)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:07|6|55|PITTIS, RICCARDO|AIA       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|04:07|6|56|ANGULO, LUCIO|AIO       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|04:03|6|57|MARCONATO, DENIS|AHW       |Foul (2)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|04:03|6|58|MEEK, ERIK|AIU       |Foul Drawn (3)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|04:03|6|59|MEEK, ERIK|AIU       |Free Throw In (2/2 -  2 pt)|FTM|13.0|11.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|03:56|7|61|NAUMOSKI, PETAR|AHY       |Two Pointer (1/2 -  5 pt)|2FGM|15.0|11.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|03:34|7|62|LOPEZ, RAUL|AIT       |Three Pointer (3/3 -  9 pt)|3FGM|15.0|14.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:29|7|63|TOMIDY, ALAN|ALS       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|03:29|7|64|MARCONATO, DENIS|AHW       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|03:10|7|65|ANGULO, LUCIO|AIO       |Foul (2)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:10|7|66|TOMIDY, ALAN|ALS       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:10|7|67|TOMIDY, ALAN|ALS       |Missed Free Throw (0/1 -  0 pt)|FTA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:10|7|68|TOMIDY, ALAN|ALS       |Missed Free Throw (0/2 -  0 pt)|FTA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|03:10|7|69|MEEK, ERIK|AIU       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:57|8|71|ITURBE, IKER|AIS       |Turnover (4)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|02:57|8|72|TOMIDY, ALAN|ALS       |Steal (1)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|02:57|8|73|BROWN, MARCUS|AHT       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:44|8|74|ITURBE, IKER|AIS       |Missed Three Pointer (0/2 -  0 pt)|3FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|02:44|8|75|HERREROS, ALBERTO|AIR       |Off Rebound (1)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|02:44|8|76|MEEK, ERIK|AIU       |Foul Drawn (4)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|02:44|8|77|BROWN, MARCUS|AHT       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       |||02:44|8|78||          |Time Out (1)|TOUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|02:44|8|79|MEEK, ERIK|AIU       |Free Throw In (3/3 -  3 pt)|FTM|15.0|15.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|02:44|8|80|HERREROS, ALBERTO|AIR       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|02:44|8|81|MEEK, ERIK|AIU       |Free Throw In (4/4 -  4 pt)|FTM|15.0|16.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:34|8|82|NAUMOSKI, PETAR|AHY       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|02:34|8|83|LOPEZ, RAUL|AIT       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:34|8|84|NAUMOSKI, PETAR|AHY       |Free Throw In (1/1 -  6 pt)|FTM|16.0|16.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:34|8|85|NAUMOSKI, PETAR|AHY       |Free Throw In (2/2 -  7 pt)|FTM|17.0|16.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|02:08|8|86|ANGULO, LUCIO|AIO       |Missed Three Pointer (0/1 -  1 pt)|3FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|01:59|9|88|NAUMOSKI, PETAR|AHY       |Def Rebound (2)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|01:51|9|89|PITTIS, RICCARDO|AIA       |Turnover (2)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|01:39|9|90|ANGULO, LUCIO|AIO       |Layup Made (1/1 -  3 pt)|LAYUPMD|17.0|18.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|01:18|9|91|ANGULO, LUCIO|AIO       |Steal (2)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|01:15|9|92|NAUMOSKI, PETAR|AHY       |Turnover (2)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|01:13|9|93|ITURBE, IKER|AIS       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|01:10|9|94|MEEK, ERIK|AIU       |Dunk (1/1 -  6 pt)|DUNK|17.0|20.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|00:58|10|96|TOMIDY, ALAN|ALS       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:55|10|97|LOPEZ, RAUL|AIT       |Steal (1)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:50|10|98|NAUMOSKI, PETAR|AHY       |Foul (2)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:50|10|99|LOPEZ, RAUL|AIT       |Foul Drawn (2)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|00:50|10|100|NICOLA, MARCELO|AHZ       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:50|10|101|NAUMOSKI, PETAR|AHY       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:50|10|102|LOPEZ, RAUL|AIT       |Missed Free Throw (0/1 -  9 pt)|FTA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:50|10|103|LOPEZ, RAUL|AIT       |Free Throw In (1/2 -  10 pt)|FTM|17.0|21.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|00:36|10|104|TOMIDY, ALAN|ALS       |Turnover (2)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|00:30|10|105|ANGULO, LUCIO|AIO       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:30|10|106|PITTIS, RICCARDO|AIA       |Steal (1)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:30|10|107|PITTIS, RICCARDO|AIA       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:30|10|108|HERREROS, ALBERTO|AIR       |Foul (2)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|00:30|10|109|SANTOS, ISMAEL|AIB       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|00:30|10|110|GARBAJOSA, JORGE|AHV       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:30|10|112|PITTIS, RICCARDO|AIA       |Missed Free Throw (0/1 -  0 pt)|FTA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:30|10|113|PITTIS, RICCARDO|AIA       |Free Throw In (1/2 -  1 pt)|FTM|18.0|21.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:25|10|114|LOPEZ, RAUL|AIT       |Foul Drawn (3)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|00:25|10|115|TOMIDY, ALAN|ALS       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|00:25|10|116|MILIC, MARKO|AIV       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:25|10|117|HERREROS, ALBERTO|AIR       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:24|10|118|LOPEZ, RAUL|AIT       |Free Throw In (2/3 -  11 pt)|FTM|18.0|22.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|00:24|10|119|LOPEZ, RAUL|AIT       |Missed Free Throw (2/4 -  11 pt)|FTA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|00:24|10|120|TOMIDY, ALAN|ALS       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:06|10|121|PITTIS, RICCARDO|AIA       |Missed Three Pointer (0/1 -  1 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|00:04|10|122|MILIC, MARKO|AIV       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|00:02|10|124|MILIC, MARKO|AIV       |Missed Three Pointer (0/1 -  0 pt)|3FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+          ||||11|126||          |End Period|EP||||0|PALAVERDE|TRE|RMA|104
+RMA       ||4|09:00|11|127|ANGULO, ALBERTO|AIN       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|09:00|11|128|DJORDJEVIC, ALEKSANDAR|AIP       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|09:00|11|129|STRUELENS, ERIC|AIX       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|09:00|11|130|LOPEZ, RAUL|AIT       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|09:00|11|131|ANGULO, LUCIO|AIO       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|09:00|11|132|ITURBE, IKER|AIS       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|09:00|11|133|NACHBAR, BOSTJAN|AHX       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|09:00|11|134|PITTIS, RICCARDO|AIA       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|09:43|11|135|BROWN, MARCUS|AHT       |Three Pointer (1/1 -  9 pt)|3FGM|21.0|22.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|09:14|11|136|STRUELENS, ERIC|AIX       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|09:12|11|137|BROWN, MARCUS|AHT       |Def Rebound (2)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|09:10|11|138|BROWN, MARCUS|AHT       |Layup Made (3/3 -  11 pt)|LAYUPMD|23.0|22.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|08:44|12|140|NACHBAR, BOSTJAN|AHX       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||4|08:44|12|141|ANGULO, ALBERTO|AIN       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|08:28|12|142|STRUELENS, ERIC|AIX       |Two Pointer (1/2 -  2 pt)|2FGM|23.0|24.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|08:11|12|143|TOMIDY, ALAN|ALS       |Layup Made (1/1 -  2 pt)|LAYUPMD|25.0|24.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|07:45|13|145|DJORDJEVIC, ALEKSANDAR|AIP       |Missed Two Pointer (0/1 -  0 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|07:39|13|146|NACHBAR, BOSTJAN|AHX       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|07:34|13|147|NACHBAR, BOSTJAN|AHX       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       |||07:33|13|148||          |Time Out (1)|TOUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|07:08|13|149|DJORDJEVIC, ALEKSANDAR|AIP       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|07:07|13|150|NICOLA, MARCELO|AHZ       |Steal (1)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|06:53|14|152|TOMIDY, ALAN|ALS       |Missed Layup (1/2 -  2 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|06:50|14|153|NICOLA, MARCELO|AHZ       |Off Rebound (1)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|06:50|14|154|NICOLA, MARCELO|AHZ       |Layup Made (1/1 -  2 pt)|LAYUPMD|27.0|24.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||4|06:37|14|155|ANGULO, ALBERTO|AIN       |Three Pointer (1/1 -  3 pt)|3FGM|27.0|27.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|06:35|14|156|STRUELENS, ERIC|AIX       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|06:28|14|157|NACHBAR, BOSTJAN|AHX       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|06:26|14|158|STRUELENS, ERIC|AIX       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|06:20|14|159|MILIC, MARKO|AIV       |Layup Made (1/1 -  2 pt)|LAYUPMD|27.0|29.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|05:43|15|161|NACHBAR, BOSTJAN|AHX       |Turnover (2)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|05:43|15|162|MILIC, MARKO|AIV       |Steal (1)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|05:43|15|165|NACHBAR, BOSTJAN|AHX       |Unsportsmanlike Foul  (2)|CMU|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|05:43|15|166|MILIC, MARKO|AIV       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|05:43|15|167|MILIC, MARKO|AIV       |Missed Free Throw (0/1 -  2 pt)|FTA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|05:43|15|168|MILIC, MARKO|AIV       |Free Throw In (1/2 -  3 pt)|FTM|27.0|30.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|05:43|15|169|ZIDEK, JIRI|AIY       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|05:43|15|170|MEEK, ERIK|AIU       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|05:43|15|171|PITTIS, RICCARDO|AIA       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||12|05:43|15|172|NACHBAR, BOSTJAN|AHX       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|04:57|16|174|DJORDJEVIC, ALEKSANDAR|AIP       |Turnover (2)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|04:49|16|175|NICOLA, MARCELO|AHZ       |Turnover (1)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|04:39|16|176|STRUELENS, ERIC|AIX       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|04:25|16|177|MILIC, MARKO|AIV       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|04:25|16|178|TOMIDY, ALAN|ALS       |Foul Drawn (2)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:25|16|182|NAUMOSKI, PETAR|AHY       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|04:25|16|183|BROWN, MARCUS|AHT       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|04:17|16|184|ZIDEK, JIRI|AIY       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|04:17|16|185|TOMIDY, ALAN|ALS       |Foul Drawn (3)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|04:17|16|186|NICOLA, MARCELO|AHZ       |Two Pointer (2/2 -  4 pt)|2FGM|29.0|30.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|04:17|16|187|DJORDJEVIC, ALEKSANDAR|AIP       |Two Pointer (1/2 -  2 pt)|2FGM|29.0|32.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|04:17|16|188|DJORDJEVIC, ALEKSANDAR|AIP       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:17|16|189|PITTIS, RICCARDO|AIA       |Foul Drawn (2)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:17|16|190|PITTIS, RICCARDO|AIA       |Missed Free Throw (1/3 -  1 pt)|FTA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:17|16|191|PITTIS, RICCARDO|AIA       |Missed Free Throw (1/4 -  1 pt)|FTA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|04:17|16|192|STRUELENS, ERIC|AIX       |Def Rebound (2)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|04:17|16|193|MILIC, MARKO|AIV       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:17|16|194|NAUMOSKI, PETAR|AHY       |Steal (1)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|04:07|16|195|TOMIDY, ALAN|ALS       |Missed Two Pointer (1/3 -  2 pt)|2FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|04:04|16|196|STRUELENS, ERIC|AIX       |Def Rebound (3)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||4|04:00|16|197|ANGULO, ALBERTO|AIN       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:57|17|199|PITTIS, RICCARDO|AIA       |Steal (2)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|03:50|17|200|NICOLA, MARCELO|AHZ       |Missed Three Pointer (0/1 -  4 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:47|17|201|PITTIS, RICCARDO|AIA       |Off Rebound (1)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:47|17|202|PITTIS, RICCARDO|AIA       |Layup Made (1/2 -  3 pt)|LAYUPMD|31.0|32.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|03:31|17|203|DJORDJEVIC, ALEKSANDAR|AIP       |Three Pointer (1/1 -  5 pt)|3FGM|31.0|35.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:18|17|204|PITTIS, RICCARDO|AIA       |Missed Two Pointer (1/3 -  3 pt)|2FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       |||03:18|17|205||          |Off Rebound (1)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|03:18|17|206|MILIC, MARKO|AIV       |Foul (2)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|03:18|17|207|NICOLA, MARCELO|AHZ       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|03:18|17|208|BROWN, MARCUS|AHT       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|03:18|17|209|SANTOS, ISMAEL|AIB       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:08|17|210|PITTIS, RICCARDO|AIA       |Missed Layup (1/4 -  3 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|02:59|18|212|PITTIS, RICCARDO|AIA       |Off Rebound (2)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|02:59|18|213|PITTIS, RICCARDO|AIA       |Missed Layup (1/5 -  3 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|02:56|18|214|DJORDJEVIC, ALEKSANDAR|AIP       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|02:53|18|215|ZIDEK, JIRI|AIY       |Layup Made (1/1 -  2 pt)|LAYUPMD|31.0|37.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|02:51|18|216|MILIC, MARKO|AIV       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|02:51|18|218|TOMIDY, ALAN|ALS       |Two Pointer (2/4 -  4 pt)|2FGM|33.0|37.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|02:02|18|219|DJORDJEVIC, ALEKSANDAR|AIP       |Turnover (3)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:00|18|220|NAUMOSKI, PETAR|AHY       |Assist (1)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|01:58|19|222|PITTIS, RICCARDO|AIA       |Dunk (2/6 -  5 pt)|DUNK|35.0|37.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|01:43|19|223|PITTIS, RICCARDO|AIA       |Foul Drawn (3)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|01:43|19|224|ZIDEK, JIRI|AIY       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|01:43|19|225|ZIDEK, JIRI|AIY       |Offensive Foul (2)|OF|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|01:28|19|226|BROWN, MARCUS|AHT       |Missed Three Pointer (1/2 -  11 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|01:27|19|227|STRUELENS, ERIC|AIX       |Def Rebound (4)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|01:21|19|228|DJORDJEVIC, ALEKSANDAR|AIP       |Layup Made (2/3 -  7 pt)|LAYUPMD|35.0|39.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|00:51|20|230|NICOLA, MARCELO|AHZ       |Dunk (3/3 -  6 pt)|DUNK|37.0|39.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:49|20|231|NAUMOSKI, PETAR|AHY       |Assist (2)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||4|00:44|20|232|ANGULO, ALBERTO|AIN       |Two Pointer (1/1 -  5 pt)|2FGM|37.0|41.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       |||00:42|20|233||          |Time Out (1)|TOUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|00:30|20|234|NICOLA, MARCELO|AHZ       |Turnover (2)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|00:25|20|235|ZIDEK, JIRI|AIY       |Steal (1)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|00:18|20|236|STRUELENS, ERIC|AIX       |Turnover (2)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|00:16|20|237|BROWN, MARCUS|AHT       |Steal (1)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:01|20|238|NAUMOSKI, PETAR|AHY       |Three Pointer (2/2 -  10 pt)|3FGM|40.0|41.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+          ||||21|240||          |End Period|EP||||0|PALAVERDE|TRE|RMA|104
+RMA       ||7|09:00|21|241|ANGULO, LUCIO|AIO       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|09:00|21|242|HERREROS, ALBERTO|AIR       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|09:00|21|243|MEEK, ERIK|AIU       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|09:00|21|244|ITURBE, IKER|AIS       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|09:00|21|245|LOPEZ, RAUL|AIT       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|09:00|21|246|MILIC, MARKO|AIV       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||13|09:00|21|247|ZIDEK, JIRI|AIY       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||4|09:00|21|248|ANGULO, ALBERTO|AIN       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|09:00|21|249|STRUELENS, ERIC|AIX       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|09:00|21|250|DJORDJEVIC, ALEKSANDAR|AIP       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|09:00|21|251|MARCONATO, DENIS|AHW       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|09:00|21|252|GARBAJOSA, JORGE|AHV       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|09:00|21|253|NICOLA, MARCELO|AHZ       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|09:00|21|254|TOMIDY, ALAN|ALS       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|09:45|21|255|BROWN, MARCUS|AHT       |Missed Two Pointer (3/4 -  11 pt)|2FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|09:42|21|256|MEEK, ERIK|AIU       |Def Rebound (2)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|09:17|21|257|MEEK, ERIK|AIU       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|09:14|21|258|NAUMOSKI, PETAR|AHY       |Foul Drawn (2)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|09:14|21|259|ITURBE, IKER|AIS       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|09:04|21|260|NAUMOSKI, PETAR|AHY       |Three Pointer (3/3 -  13 pt)|3FGM|43.0|41.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|08:51|22|262|HERREROS, ALBERTO|AIR       |Three Pointer (1/2 -  5 pt)|3FGM|43.0|44.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|08:49|22|263|LOPEZ, RAUL|AIT       |Assist (2)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|08:26|22|264|NAUMOSKI, PETAR|AHY       |Turnover (3)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|08:24|22|265|LOPEZ, RAUL|AIT       |Steal (2)|ST|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:22|22|266|BROWN, MARCUS|AHT       |Foul (2)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|08:22|22|267|MEEK, ERIK|AIU       |Foul Drawn (5)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|08:22|22|268|MEEK, ERIK|AIU       |Missed Free Throw (4/5 -  6 pt)|FTA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|08:22|22|269|MEEK, ERIK|AIU       |Free Throw In (5/6 -  7 pt)|FTM|43.0|45.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|08:22|22|270|ITURBE, IKER|AIS       |Assist (2)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:06|22|271|BROWN, MARCUS|AHT       |Layup Made (4/5 -  13 pt)|LAYUPMD|45.0|45.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|07:45|23|273|ITURBE, IKER|AIS       |Three Pointer (1/3 -  3 pt)|3FGM|45.0|48.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|07:43|23|274|MEEK, ERIK|AIU       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|07:26|23|275|ANGULO, LUCIO|AIO       |Foul (3)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|07:26|23|276|GARBAJOSA, JORGE|AHV       |Foul Drawn (1)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|07:22|23|277|BROWN, MARCUS|AHT       |Layup Made (5/6 -  15 pt)|LAYUPMD|47.0|48.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|07:20|23|278|PITTIS, RICCARDO|AIA       |Assist (2)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|07:02|23|279|HERREROS, ALBERTO|AIR       |Three Pointer (2/3 -  8 pt)|3FGM|47.0|51.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|06:59|24|281|LOPEZ, RAUL|AIT       |Assist (3)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|06:40|24|282|GARBAJOSA, JORGE|AHV       |Three Pointer (1/1 -  5 pt)|3FGM|50.0|51.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|06:38|24|283|NAUMOSKI, PETAR|AHY       |Assist (3)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|06:17|24|284|MEEK, ERIK|AIU       |Turnover (2)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|06:17|24|285|MEEK, ERIK|AIU       |Offensive Foul (2)|OF|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|06:17|24|286|MARCONATO, DENIS|AHW       |Foul Drawn (2)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|06:01|24|287|PITTIS, RICCARDO|AIA       |Layup Made (3/7 -  7 pt)|LAYUPMD|52.0|51.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|06:00|24|288|NAUMOSKI, PETAR|AHY       |Assist (4)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|05:44|25|290|MEEK, ERIK|AIU       |Layup Made (2/2 -  9 pt)|LAYUPMD|52.0|53.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|05:41|25|291|LOPEZ, RAUL|AIT       |Assist (4)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|05:17|25|292|BROWN, MARCUS|AHT       |Missed Layup (5/7 -  15 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|05:17|25|293|BROWN, MARCUS|AHT       |Shot Rejected (1)|AG|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|05:14|25|294|HERREROS, ALBERTO|AIR       |Block (1)|FV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:12|25|296|GARBAJOSA, JORGE|AHV       |Off Rebound (2)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|05:24|25|299|NAUMOSKI, PETAR|AHY       |Missed Three Pointer (3/4 -  13 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       |||05:18|25|300||          |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|05:04|25|301|HERREROS, ALBERTO|AIR       |Missed Two Pointer (1/2 -  8 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|05:04|25|302|MARCONATO, DENIS|AHW       |Foul (3)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|05:04|25|303|MEEK, ERIK|AIU       |Foul Drawn (6)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       |||05:04|25|304||          |Off Rebound (2)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|04:55|26|306|ANGULO, LUCIO|AIO       |Two Pointer (2/2 -  5 pt)|2FGM|52.0|55.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|04:34|26|307|ANGULO, LUCIO|AIO       |Foul (4)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:34|26|308|PITTIS, RICCARDO|AIA       |Foul Drawn (4)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:34|26|309|PITTIS, RICCARDO|AIA       |Layup Made (4/8 -  9 pt)|LAYUPMD|54.0|55.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|04:34|26|310|MILIC, MARKO|AIV       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||7|04:34|26|311|ANGULO, LUCIO|AIO       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|04:34|26|312|PITTIS, RICCARDO|AIA       |Free Throw In (2/5 -  10 pt)|FTM|55.0|55.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|04:15|26|313|LOPEZ, RAUL|AIT       |Missed Two Pointer (0/1 -  11 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       |||04:15|26|314||          |Def Rebound (2)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|03:55|27|316|GARBAJOSA, JORGE|AHV       |Three Pointer (2/2 -  8 pt)|3FGM|58.0|55.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:54|27|317|PITTIS, RICCARDO|AIA       |Assist (3)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|03:32|27|318|LOPEZ, RAUL|AIT       |Missed Three Pointer (3/4 -  11 pt)|3FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|03:29|27|319|LOPEZ, RAUL|AIT       |Off Rebound (1)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|03:20|27|320|ITURBE, IKER|AIS       |Missed Two Pointer (0/2 -  3 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|03:18|27|321|MARCONATO, DENIS|AHW       |Def Rebound (2)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:14|27|322|PITTIS, RICCARDO|AIA       |Layup Made (5/9 -  12 pt)|LAYUPMD|60.0|55.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|03:14|27|323|NAUMOSKI, PETAR|AHY       |Assist (5)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       |||03:14|27|324||          |Time Out (1)|TOUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|03:05|27|325|BROWN, MARCUS|AHT       |Foul (3)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|03:05|27|326|ITURBE, IKER|AIS       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|02:53|28|328|HERREROS, ALBERTO|AIR       |Three Pointer (3/4 -  11 pt)|3FGM|60.0|58.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|02:52|28|329|MILIC, MARKO|AIV       |Assist (2)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|02:22|28|330|LOPEZ, RAUL|AIT       |Foul (2)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:22|28|331|NAUMOSKI, PETAR|AHY       |Foul Drawn (3)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|02:22|28|334|STRUELENS, ERIC|AIX       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|02:22|28|335|MEEK, ERIK|AIU       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:22|28|336|NAUMOSKI, PETAR|AHY       |Free Throw In (3/3 -  14 pt)|FTM|61.0|58.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|02:22|28|337|NAUMOSKI, PETAR|AHY       |Free Throw In (4/4 -  15 pt)|FTM|62.0|58.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|02:02|28|338|HERREROS, ALBERTO|AIR       |Missed Two Pointer (1/3 -  11 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|01:59|29|344|STRUELENS, ERIC|AIX       |Off Rebound (1)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|01:59|29|345|STRUELENS, ERIC|AIX       |Dunk (2/3 -  4 pt)|DUNK|62.0|60.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|01:46|29|346|PITTIS, RICCARDO|AIA       |Turnover (3)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|01:46|29|347|PITTIS, RICCARDO|AIA       |Offensive Foul (2)|OF|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|01:46|29|348|HERREROS, ALBERTO|AIR       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|01:28|29|349|PITTIS, RICCARDO|AIA       |Foul (3)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|01:28|29|350|HERREROS, ALBERTO|AIR       |Foul Drawn (2)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|01:28|29|351|HERREROS, ALBERTO|AIR       |Free Throw In (1/1 -  12 pt)|FTM|62.0|61.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|01:28|29|352|HERREROS, ALBERTO|AIR       |Free Throw In (2/2 -  13 pt)|FTM|62.0|62.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|01:28|29|353|MEEK, ERIK|AIU       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|01:28|29|354|ITURBE, IKER|AIS       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|01:14|29|355|NAUMOSKI, PETAR|AHY       |Missed Three Pointer (3/5 -  15 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|01:11|29|356|HERREROS, ALBERTO|AIR       |Def Rebound (1)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:54|30|358|HERREROS, ALBERTO|AIR       |Three Pointer (4/5 -  16 pt)|3FGM|62.0|65.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|00:51|30|359|STRUELENS, ERIC|AIX       |Assist (2)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|00:34|30|360|BROWN, MARCUS|AHT       |Three Pointer (2/3 -  18 pt)|3FGM|65.0|65.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|00:21|30|361|BROWN, MARCUS|AHT       |Foul Drawn (3)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|00:21|30|362|MILIC, MARKO|AIV       |Turnover (2)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|00:21|30|363|MILIC, MARKO|AIV       |Offensive Foul (3)|OF|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|00:01|30|364|BROWN, MARCUS|AHT       |Three Pointer (3/4 -  21 pt)|3FGM|68.0|65.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+          ||||31|366||          |End Period|EP||||0|PALAVERDE|TRE|RMA|104
+RMA       ||6|09:00|31|367|DJORDJEVIC, ALEKSANDAR|AIP       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||14|09:00|31|368|LOPEZ, RAUL|AIT       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|09:00|31|369|SANTOS, ISMAEL|AIB       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|09:00|31|370|PITTIS, RICCARDO|AIA       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|09:32|31|371|MEEK, ERIK|AIU       |Layup Made (3/3 -  11 pt)|LAYUPMD|68.0|67.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|09:31|31|372|MILIC, MARKO|AIV       |Assist (3)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|09:21|31|373|GARBAJOSA, JORGE|AHV       |Missed Three Pointer (2/3 -  8 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|09:18|31|374|MILIC, MARKO|AIV       |Def Rebound (2)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|09:10|31|375|DJORDJEVIC, ALEKSANDAR|AIP       |Turnover (4)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|09:10|31|377|NICOLA, MARCELO|AHZ       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|09:10|31|378|MARCONATO, DENIS|AHW       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|08:55|32|380|MEEK, ERIK|AIU       |Foul (3)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|08:55|32|381|GARBAJOSA, JORGE|AHV       |Foul Drawn (2)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|08:46|32|382|SANTOS, ISMAEL|AIB       |Missed Layup (0/1 -  0 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|08:43|32|383|GARBAJOSA, JORGE|AHV       |Off Rebound (3)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|08:43|32|384|GARBAJOSA, JORGE|AHV       |Layup Made (2/2 -  10 pt)|LAYUPMD|70.0|67.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|08:31|32|385|SANTOS, ISMAEL|AIB       |Foul (1)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|08:31|32|386|DJORDJEVIC, ALEKSANDAR|AIP       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|08:23|32|387|STRUELENS, ERIC|AIX       |Dunk (3/4 -  6 pt)|DUNK|70.0|69.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|08:23|32|388|GARBAJOSA, JORGE|AHV       |Foul (2)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|08:23|32|389|STRUELENS, ERIC|AIX       |Foul Drawn (1)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|08:23|32|390|DJORDJEVIC, ALEKSANDAR|AIP       |Assist (1)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|08:23|32|391|STRUELENS, ERIC|AIX       |Missed Free Throw (0/1 -  6 pt)|FTA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|08:21|32|392|NICOLA, MARCELO|AHZ       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|08:12|32|393|BROWN, MARCUS|AHT       |Three Pointer (4/5 -  24 pt)|3FGM|73.0|69.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|08:10|32|394|SANTOS, ISMAEL|AIB       |Assist (1)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|07:51|33|396|HERREROS, ALBERTO|AIR       |Missed Two Pointer (1/4 -  16 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|07:48|33|397|STRUELENS, ERIC|AIX       |Off Rebound (2)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|07:48|33|398|STRUELENS, ERIC|AIX       |Layup Made (4/5 -  8 pt)|LAYUPMD|73.0|71.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|07:29|33|399|MEEK, ERIK|AIU       |Foul (4)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|07:29|33|400|NAUMOSKI, PETAR|AHY       |Foul Drawn (4)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|07:29|33|401|NAUMOSKI, PETAR|AHY       |Free Throw In (5/5 -  16 pt)|FTM|74.0|71.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|07:29|33|402|NAUMOSKI, PETAR|AHY       |Free Throw In (6/6 -  17 pt)|FTM|75.0|71.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|07:15|33|403|STRUELENS, ERIC|AIX       |Turnover (3)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|07:07|33|404|NAUMOSKI, PETAR|AHY       |Missed Layup (1/3 -  17 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|07:06|33|405|MEEK, ERIK|AIU       |Def Rebound (3)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|07:01|33|406|MILIC, MARKO|AIV       |Layup Made (2/2 -  5 pt)|LAYUPMD|75.0|73.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|06:59|34|408|STRUELENS, ERIC|AIX       |Assist (3)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|06:36|34|409|BROWN, MARCUS|AHT       |Missed Three Pointer (4/6 -  24 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|06:33|34|410|MILIC, MARKO|AIV       |Def Rebound (3)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|06:17|34|411|DJORDJEVIC, ALEKSANDAR|AIP       |Three Pointer (2/2 -  10 pt)|3FGM|75.0|76.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|05:59|35|413|NICOLA, MARCELO|AHZ       |Missed Three Pointer (0/2 -  6 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|05:56|35|414|MEEK, ERIK|AIU       |Def Rebound (4)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|05:41|35|415|HERREROS, ALBERTO|AIR       |Two Pointer (2/5 -  18 pt)|2FGM|75.0|78.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       |||05:40|35|416||          |Time Out (1)|TOUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|05:40|35|417|PITTIS, RICCARDO|AIA       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|05:40|35|418|BROWN, MARCUS|AHT       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:28|35|419|GARBAJOSA, JORGE|AHV       |Foul Drawn (3)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|05:28|35|420|STRUELENS, ERIC|AIX       |Foul (1)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:28|35|421|GARBAJOSA, JORGE|AHV       |Free Throw In (1/1 -  11 pt)|FTM|76.0|78.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|05:28|35|422|NAUMOSKI, PETAR|AHY       |Assist (6)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:28|35|423|GARBAJOSA, JORGE|AHV       |Free Throw In (2/2 -  12 pt)|FTM|77.0|78.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|05:28|35|424|MARCONATO, DENIS|AHW       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|05:28|35|425|GARBAJOSA, JORGE|AHV       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|05:05|35|426|DJORDJEVIC, ALEKSANDAR|AIP       |Missed Two Pointer (2/4 -  10 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|05:02|35|427|PITTIS, RICCARDO|AIA       |Def Rebound (1)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|04:54|36|429|DJORDJEVIC, ALEKSANDAR|AIP       |Foul Drawn (2)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|04:54|36|430|NICOLA, MARCELO|AHZ       |Turnover (3)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|04:54|36|431|NICOLA, MARCELO|AHZ       |Offensive Foul (1)|OF|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|04:39|36|432|HERREROS, ALBERTO|AIR       |Turnover (1)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:39|36|434|NAUMOSKI, PETAR|AHY       |Steal (2)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:39|36|435|NAUMOSKI, PETAR|AHY       |Foul Drawn (5)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|04:39|36|436|DJORDJEVIC, ALEKSANDAR|AIP       |Foul (2)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|04:26|36|437|GARBAJOSA, JORGE|AHV       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||8|04:26|36|438|MARCONATO, DENIS|AHW       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|04:20|36|439|DJORDJEVIC, ALEKSANDAR|AIP       |Foul (3)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:20|36|441|NAUMOSKI, PETAR|AHY       |Foul Drawn (6)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|04:20|36|445|TOMIDY, ALAN|ALS       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|04:20|36|446|BROWN, MARCUS|AHT       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||4|04:20|36|447|NICOLA, MARCELO|AHZ       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|04:20|36|448|SANTOS, ISMAEL|AIB       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:15|36|453|NAUMOSKI, PETAR|AHY       |Free Throw In (7/7 -  18 pt)|FTM|78.0|78.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|04:15|36|454|NAUMOSKI, PETAR|AHY       |Free Throw In (8/8 -  19 pt)|FTM|79.0|78.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|03:54|37|456|STRUELENS, ERIC|AIX       |Missed Layup (4/6 -  8 pt)|LAYUPATT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|03:54|37|457|STRUELENS, ERIC|AIX       |Shot Rejected (1)|AG|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:53|37|458|TOMIDY, ALAN|ALS       |Block (1)|FV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       |||03:51|37|459||          |Off Rebound (3)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|03:44|37|460|HERREROS, ALBERTO|AIR       |Missed Two Pointer (2/6 -  18 pt)|2FGA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|03:41|37|461|STRUELENS, ERIC|AIX       |Off Rebound (3)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|03:41|37|462|STRUELENS, ERIC|AIX       |Missed Layup (4/7 -  8 pt)|LAYUPATT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:39|37|463|TOMIDY, ALAN|ALS       |Def Rebound (2)|D|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:27|37|464|TOMIDY, ALAN|ALS       |Missed Layup (2/5 -  4 pt)|LAYUPATT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|03:23|37|465|MILIC, MARKO|AIV       |Def Rebound (4)|D|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|03:21|37|466|PITTIS, RICCARDO|AIA       |Foul (4)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|03:21|37|467|MILIC, MARKO|AIV       |Foul Drawn (2)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|03:18|37|468|MEEK, ERIK|AIU       |Foul Drawn (7)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|03:18|37|469|TOMIDY, ALAN|ALS       |Foul (2)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|03:18|37|470|MEEK, ERIK|AIU       |Missed Free Throw (5/7 -  11 pt)|FTA|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|03:18|37|471|MEEK, ERIK|AIU       |Free Throw In (6/8 -  12 pt)|FTM|79.0|79.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:55|38|473|ITURBE, IKER|AIS       |In|IN|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||5|02:55|38|474|STRUELENS, ERIC|AIX       |Out|OUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|02:47|38|475|TOMIDY, ALAN|ALS       |Foul Drawn (4)|RV|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:47|38|476|ITURBE, IKER|AIS       |Foul (2)|CM|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|02:47|38|477|TOMIDY, ALAN|ALS       |Missed Free Throw (0/3 -  4 pt)|FTA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||14|02:47|38|478|TOMIDY, ALAN|ALS       |Free Throw In (1/4 -  5 pt)|FTM|80.0|79.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|02:36|38|479|MILIC, MARKO|AIV       |Layup Made (3/3 -  7 pt)|LAYUPMD|80.0|81.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|02:25|38|480|GARBAJOSA, JORGE|AHV       |Layup Made (3/3 -  14 pt)|LAYUPMD|82.0|81.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|02:22|38|481|PITTIS, RICCARDO|AIA       |Assist (4)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:16|38|482|ITURBE, IKER|AIS       |Foul Drawn (2)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|02:16|38|483|GARBAJOSA, JORGE|AHV       |Foul (3)|CM|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:16|38|484|ITURBE, IKER|AIS       |Free Throw In (1/1 -  4 pt)|FTM|82.0|82.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|02:16|38|485|ITURBE, IKER|AIS       |Free Throw In (2/2 -  5 pt)|FTM|82.0|83.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|02:03|38|486|GARBAJOSA, JORGE|AHV       |Three Pointer (3/4 -  17 pt)|3FGM|85.0|83.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|02:01|38|487|PITTIS, RICCARDO|AIA       |Assist (5)|AS|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||12|01:37|39|489|MILIC, MARKO|AIV       |Layup Made (4/4 -  9 pt)|LAYUPMD|85.0|85.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|01:35|39|490|ITURBE, IKER|AIS       |Assist (3)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|01:15|39|491|NAUMOSKI, PETAR|AHY       |Missed Three Pointer (3/6 -  19 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||5|01:12|39|492|BROWN, MARCUS|AHT       |Off Rebound (1)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|01:02|39|493|NAUMOSKI, PETAR|AHY       |Two Pointer (2/4 -  21 pt)|2FGM|87.0|85.0|Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:45|40|495|HERREROS, ALBERTO|AIR       |Turnover (2)|TO|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:43|40|496|PITTIS, RICCARDO|AIA       |Steal (3)|ST|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|00:27|40|497|GARBAJOSA, JORGE|AHV       |Turnover (2)|TO|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||15|00:27|40|498|GARBAJOSA, JORGE|AHV       |Offensive Foul (4)|OF|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||15|00:27|40|499|ITURBE, IKER|AIS       |Foul Drawn (3)|RV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       |||00:27|40|500||          |Time Out (1)|TOUT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||11|00:27|40|501|SANTOS, ISMAEL|AIB       |In|IN|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||7|00:27|40|502|PITTIS, RICCARDO|AIA       |Out|OUT|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||9|00:13|40|503|MEEK, ERIK|AIU       |Missed Layup (3/4 -  12 pt)|LAYUPATT|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:10|40|504|HERREROS, ALBERTO|AIR       |Off Rebound (2)|O|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||6|00:07|40|505|DJORDJEVIC, ALEKSANDAR|AIP       |Three Pointer (3/3 -  13 pt)|3FGM|87.0|88.0|Real Madrid|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:05|40|506|HERREROS, ALBERTO|AIR       |Assist (2)|AS|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:02|40|507|NAUMOSKI, PETAR|AHY       |Missed Three Pointer (3/7 -  21 pt)|3FGAB|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:02|40|508|NAUMOSKI, PETAR|AHY       |Shot Rejected (1)|AG|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+RMA       ||11|00:02|40|509|HERREROS, ALBERTO|AIR       |Block (2)|FV|||Real Madrid|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:02|40|510|NAUMOSKI, PETAR|AHY       |Off Rebound (1)|O|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+TRE       ||10|00:02|40|511|NAUMOSKI, PETAR|AHY       |Missed Three Pointer (3/8 -  21 pt)|3FGA|||Benetton Treviso|0|PALAVERDE|TRE|RMA|104
+          ||||41|514||          |End Game|EG||||0|PALAVERDE|TRE|RMA|104
